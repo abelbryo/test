@@ -1,7 +1,10 @@
 This is a main file
 ===================
 
-I will be editing and copying stuff as we go.
+1. I will be editing and copying stuff as we go.
 
 Now I am back in master editing some more file.
-In branch feature I continue editing the main file.
+
+2. In branch feature I continue editing the main file.
+
+3. In branch feature I continue to edit.
