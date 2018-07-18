@@ -9,8 +9,4 @@ Now I am back in master editing some more file.
 
 3. In branch feature I continue to edit.
 
-<<<<<<< HEAD
-4. Ok this is number four in master
-=======
 4. This is number four
->>>>>>> Add new line
